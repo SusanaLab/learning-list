@@ -1,0 +1,12 @@
+.TodoCounter{
+    font-family: 'Signika', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #5F5C5C;
+    
+    text-align: center;
+    padding: 20px;
+    margin: 1%;
+}
